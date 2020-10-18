@@ -1,5 +1,4 @@
 # digestsum
-
 **digestsum used for calclute hash value from a file or string**  
 **useage:**  
 &emsp;**-a means choose algorithm: md5**  
@@ -15,3 +14,7 @@
 &emsp;**eg: digestsum -f filename**  
 &emsp;**eg: digestsum -s string**  
 &emsp;**eg: digestsum -h**  
+
+**how to build file:**  
+**./build.sh**
+
