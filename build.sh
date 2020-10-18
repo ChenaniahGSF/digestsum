@@ -1,0 +1,1 @@
+gcc digestsum_imp/_src/md5.c digestsum_imp/_src/sha1.c digestsum_imp/_src/sha256.c digestsum_imp/_src/sha512.c digestsum_imp/_src/utility.c digestsum_imp/_src/calcdigest.c digestsum_imp/_src/digestmain.c -I./digestsum_api -I./digestsum_imp/_inc -o digestsum
